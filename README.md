@@ -1,6 +1,6 @@
 # Stock-price-predictions-using-Neural-Networks
 
-The objective of this analysis is the implementation of neural network models for forecasting the opening prices of the JPM stock, of the investment bank JPMorgan & Chease. In particular, two network models have been implemented:
+The objective of this analysis is the implementation of neural network models for forecasting the opening prices of the JPM stock, of the investment bank JPMorgan Chase & Co. In particular, two network models have been implemented:
   - CNN model
   - Ecoder-Decoder CNN-LSTM model
 
